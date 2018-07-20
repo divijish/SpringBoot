@@ -1,0 +1,5 @@
+Content-type is standard http header to let api know the type of object, json or xml, that you send.
+Get is used to only fetch the information.
+Post is used to add information
+Put is used to update already existing data.
+Delete is used to delete data.
